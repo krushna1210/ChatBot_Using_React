@@ -89,8 +89,9 @@ You can integrate any LLM backend such as:
 
 ---
 
-## 🖼️ UI Preview (Optional)
+## 🖼️ UI Preview
 > Add a screenshot or demo GIF of your chatbot interface here.
+<img width="561" height="845" alt="Screenshot 2025-10-05 104834" src="https://github.com/user-attachments/assets/ce6283f7-84a2-47ed-919b-c16d0537d6da" />
 
 ---
 
